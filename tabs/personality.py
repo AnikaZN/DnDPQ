@@ -26,7 +26,7 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
 
-            ## Predictions
+            ## Personality Test
 
             Answer the questions below, then scroll back up to the top to find out your D&D Player Personality!
 
@@ -40,8 +40,8 @@ column1 = dbc.Col(
 
 column2 = dbc.Col(
     [
-        dcc.Markdown('## Predictions', className='mb-5'),
-        dcc.Markdown('#### Question 1: '),
+        dcc.Markdown('## Questions', className='mb-5'),
+        dcc.Markdown('#### Question 1: I prefer...'),
         dcc.RadioItems(
             id='one',
             options=[
@@ -50,7 +50,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 2: '),
+        dcc.Markdown('#### Question 2: I prefer...'),
         dcc.RadioItems(
             id='two',
             options=[
@@ -59,7 +59,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 3: '),
+        dcc.Markdown('#### Question 3: I prefer...'),
         dcc.RadioItems(
             id='three',
             options=[
@@ -68,7 +68,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 4: '),
+        dcc.Markdown('#### Question 4: I prefer...'),
         dcc.RadioItems(
             id='four',
             options=[
@@ -77,7 +77,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 5: '),
+        dcc.Markdown('#### Question 5: I prefer...'),
         dcc.RadioItems(
             id='five',
             options=[
@@ -86,7 +86,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 6: '),
+        dcc.Markdown('#### Question 6: I prefer...'),
         dcc.RadioItems(
             id='six',
             options=[
@@ -95,7 +95,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 7: '),
+        dcc.Markdown('#### Question 7: I prefer...'),
         dcc.RadioItems(
             id='seven',
             options=[
@@ -104,7 +104,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 8: '),
+        dcc.Markdown('#### Question 8: I prefer...'),
         dcc.RadioItems(
             id='eight',
             options=[
@@ -113,7 +113,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 9: '),
+        dcc.Markdown('#### Question 9: I prefer...'),
         dcc.RadioItems(
             id='nine',
             options=[
@@ -122,7 +122,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 10: '),
+        dcc.Markdown('#### Question 10: I prefer...'),
         dcc.RadioItems(
             id='ten',
             options=[
@@ -131,7 +131,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 11: '),
+        dcc.Markdown('#### Question 11: I prefer...'),
         dcc.RadioItems(
             id='eleven',
             options=[
@@ -140,7 +140,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 12: '),
+        dcc.Markdown('#### Question 12: I prefer...'),
         dcc.RadioItems(
             id='twelve',
             options=[
@@ -149,7 +149,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 13: '),
+        dcc.Markdown('#### Question 13: I prefer...'),
         dcc.RadioItems(
             id='thirteen',
             options=[
@@ -158,7 +158,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 14: '),
+        dcc.Markdown('#### Question 14: I prefer...'),
         dcc.RadioItems(
             id='fourteen',
             options=[
@@ -167,7 +167,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 15: '),
+        dcc.Markdown('#### Question 15: I prefer...'),
         dcc.RadioItems(
             id='fifteen',
             options=[
@@ -176,7 +176,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 16: '),
+        dcc.Markdown('#### Question 16: I prefer...'),
         dcc.RadioItems(
             id='sixteen',
             options=[
@@ -185,7 +185,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 17: '),
+        dcc.Markdown('#### Question 17: I prefer...'),
         dcc.RadioItems(
             id='seventeen',
             options=[
@@ -194,7 +194,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 18: '),
+        dcc.Markdown('#### Question 18: I prefer...'),
         dcc.RadioItems(
             id='eighteen',
             options=[
@@ -203,7 +203,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 19: '),
+        dcc.Markdown('#### Question 19: I prefer...'),
         dcc.RadioItems(
             id='nineteen',
             options=[
@@ -212,7 +212,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 20: '),
+        dcc.Markdown('#### Question 20: I prefer...'),
         dcc.RadioItems(
             id='twenty',
             options=[
@@ -221,7 +221,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 21: '),
+        dcc.Markdown('#### Question 21: I prefer...'),
         dcc.RadioItems(
             id='twenty-one',
             options=[
@@ -230,7 +230,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 22: '),
+        dcc.Markdown('#### Question 22: I prefer...'),
         dcc.RadioItems(
             id='twenty-two',
             options=[
@@ -239,7 +239,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 23: '),
+        dcc.Markdown('#### Question 23: I prefer...'),
         dcc.RadioItems(
             id='twenty-three',
             options=[
@@ -248,7 +248,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 24: '),
+        dcc.Markdown('#### Question 24: I prefer...'),
         dcc.RadioItems(
             id='twenty-four',
             options=[
@@ -257,7 +257,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 25: '),
+        dcc.Markdown('#### Question 25: I prefer...'),
         dcc.RadioItems(
             id='twenty-five',
             options=[
@@ -266,7 +266,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 26: '),
+        dcc.Markdown('#### Question 26: I prefer...'),
         dcc.RadioItems(
             id='twenty-six',
             options=[
@@ -275,7 +275,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 27: '),
+        dcc.Markdown('#### Question 27: I prefer...'),
         dcc.RadioItems(
             id='twenty-seven',
             options=[
@@ -284,7 +284,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 28: '),
+        dcc.Markdown('#### Question 28: I prefer...'),
         dcc.RadioItems(
             id='twenty-eight',
             options=[
@@ -293,7 +293,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 29: '),
+        dcc.Markdown('#### Question 29: I prefer...'),
         dcc.RadioItems(
             id='twenty-nine',
             options=[
@@ -302,7 +302,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 30: '),
+        dcc.Markdown('#### Question 30: I prefer...'),
         dcc.RadioItems(
             id='thirty',
             options=[
@@ -311,7 +311,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 31: '),
+        dcc.Markdown('#### Question 31: I prefer...'),
         dcc.RadioItems(
             id='thirty-one',
             options=[
@@ -320,7 +320,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 32: '),
+        dcc.Markdown('#### Question 32: I prefer...'),
         dcc.RadioItems(
             id='thirty-two',
             options=[
@@ -329,7 +329,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 33: '),
+        dcc.Markdown('#### Question 33: I prefer...'),
         dcc.RadioItems(
             id='thirty-three',
             options=[
@@ -338,7 +338,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 34: '),
+        dcc.Markdown('#### Question 34: I prefer...'),
         dcc.RadioItems(
             id='thirty-four',
             options=[
@@ -347,7 +347,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 35: '),
+        dcc.Markdown('#### Question 35: I prefer...'),
         dcc.RadioItems(
             id='thirty-five',
             options=[
@@ -356,7 +356,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 36: '),
+        dcc.Markdown('#### Question 36: I prefer...'),
         dcc.RadioItems(
             id='thirty-six',
             options=[
@@ -365,7 +365,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 37: '),
+        dcc.Markdown('#### Question 37: I prefer...'),
         dcc.RadioItems(
             id='thirty-seven',
             options=[
@@ -374,7 +374,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 38: '),
+        dcc.Markdown('#### Question 38: I prefer...'),
         dcc.RadioItems(
             id='thirty-eight',
             options=[
@@ -383,7 +383,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 39: '),
+        dcc.Markdown('#### Question 39: I prefer...'),
         dcc.RadioItems(
             id='thirty-nine',
             options=[
@@ -392,7 +392,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 40: '),
+        dcc.Markdown('#### Question 40: I prefer...'),
         dcc.RadioItems(
             id='forty',
             options=[
@@ -401,7 +401,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 41: '),
+        dcc.Markdown('#### Question 41: I prefer...'),
         dcc.RadioItems(
             id='forty-one',
             options=[
@@ -410,7 +410,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 42: '),
+        dcc.Markdown('#### Question 42: I prefer...'),
         dcc.RadioItems(
             id='forty-two',
             options=[
@@ -419,7 +419,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 43: '),
+        dcc.Markdown('#### Question 43: I prefer...'),
         dcc.RadioItems(
             id='forty-three',
             options=[
@@ -428,7 +428,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 44: '),
+        dcc.Markdown('#### Question 44: I prefer...'),
         dcc.RadioItems(
             id='forty-four',
             options=[
@@ -437,7 +437,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 45: '),
+        dcc.Markdown('#### Question 45: I prefer...'),
         dcc.RadioItems(
             id='forty-five',
             options=[
@@ -446,7 +446,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 46: '),
+        dcc.Markdown('#### Question 46: I prefer...'),
         dcc.RadioItems(
             id='forty-six',
             options=[
@@ -455,7 +455,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 47: '),
+        dcc.Markdown('#### Question 47: I prefer...'),
         dcc.RadioItems(
             id='forty-seven',
             options=[
@@ -464,7 +464,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 48: '),
+        dcc.Markdown('#### Question 48: I prefer...'),
         dcc.RadioItems(
             id='forty-eight',
             options=[
@@ -473,7 +473,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 49: '),
+        dcc.Markdown('#### Question 49: I prefer...'),
         dcc.RadioItems(
             id='forty-nine',
             options=[
@@ -482,7 +482,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 50: '),
+        dcc.Markdown('#### Question 50: I prefer...'),
         dcc.RadioItems(
             id='fifty',
             options=[
@@ -491,7 +491,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 51: '),
+        dcc.Markdown('#### Question 51: I prefer...'),
         dcc.RadioItems(
             id='fifty-one',
             options=[
@@ -500,7 +500,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 52: '),
+        dcc.Markdown('#### Question 52: I prefer...'),
         dcc.RadioItems(
             id='fifty-two',
             options=[
@@ -509,7 +509,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 53: '),
+        dcc.Markdown('#### Question 53: I prefer...'),
         dcc.RadioItems(
             id='fifty-three',
             options=[
@@ -518,7 +518,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 54: '),
+        dcc.Markdown('#### Question 54: I prefer...'),
         dcc.RadioItems(
             id='fifty-four',
             options=[
@@ -527,7 +527,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 55: '),
+        dcc.Markdown('#### Question 55: I prefer...'),
         dcc.RadioItems(
             id='fifty-five',
             options=[
@@ -536,7 +536,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 56: '),
+        dcc.Markdown('#### Question 56: I prefer...'),
         dcc.RadioItems(
             id='fifty-six',
             options=[
@@ -545,7 +545,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 57: '),
+        dcc.Markdown('#### Question 57: I prefer...'),
         dcc.RadioItems(
             id='fifty-seven',
             options=[
@@ -554,7 +554,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 58: '),
+        dcc.Markdown('#### Question 58: I prefer...'),
         dcc.RadioItems(
             id='fifty-eight',
             options=[
@@ -563,7 +563,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 59: '),
+        dcc.Markdown('#### Question 59: I prefer...'),
         dcc.RadioItems(
             id='fifty-nine',
             options=[
@@ -572,7 +572,7 @@ column2 = dbc.Col(
             ],
             value='MTL'
         ),
-        dcc.Markdown('#### Question 60: '),
+        dcc.Markdown('#### Question 60: I prefer...'),
         dcc.RadioItems(
             id='sixty',
             options=[
