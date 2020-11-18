@@ -315,271 +315,271 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="thirty-one",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "instigating"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="instigating"
         ),
         dcc.Markdown("#### Question 32: I prefer..."),
         dcc.RadioItems(
             id="thirty-two",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "fighting"},
+                {"label": "Montréal", "value": "optimizing"},
             ],
-            value="MTL"
+            value="fighting"
         ),
         dcc.Markdown("#### Question 33: I prefer..."),
         dcc.RadioItems(
             id="thirty-three",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "fighting"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 34: I prefer..."),
         dcc.RadioItems(
             id="thirty-four",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "instigating"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 35: I prefer..."),
         dcc.RadioItems(
             id="thirty-five",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "fighting"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 36: I prefer..."),
         dcc.RadioItems(
             id="thirty-six",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "fighting"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 37: I prefer..."),
         dcc.RadioItems(
             id="thirty-seven",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "fighting"},
+                {"label": "Montréal", "value": "optimizing"},
             ],
-            value="MTL"
+            value="fighting"
         ),
         dcc.Markdown("#### Question 38: I prefer..."),
         dcc.RadioItems(
             id="thirty-eight",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "instigatingL"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 39: I prefer..."),
         dcc.RadioItems(
             id="thirty-nine",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 40: I prefer..."),
         dcc.RadioItems(
             id="forty",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "instigating"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 41: I prefer..."),
         dcc.RadioItems(
             id="forty-one",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "instigating"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="instigating"
         ),
         dcc.Markdown("#### Question 42: I prefer..."),
         dcc.RadioItems(
             id="forty-two",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "optimizing"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="optimizing"
         ),
         dcc.Markdown("#### Question 43: I prefer..."),
         dcc.RadioItems(
             id="forty-three",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 44: I prefer..."),
         dcc.RadioItems(
             id="forty-four",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "optimizing"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="optimizing"
         ),
         dcc.Markdown("#### Question 45: I prefer..."),
         dcc.RadioItems(
             id="forty-five",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "instigating"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 46: I prefer..."),
         dcc.RadioItems(
             id="forty-six",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "instigating"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 47: I prefer..."),
         dcc.RadioItems(
             id="forty-seven",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "optimizing"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 48: I prefer..."),
         dcc.RadioItems(
             id="forty-eight",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "problem solving"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="problem solving"
         ),
         dcc.Markdown("#### Question 49: I prefer..."),
         dcc.RadioItems(
             id="forty-nine",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "instigating"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="instigating"
         ),
         dcc.Markdown("#### Question 50: I prefer..."),
         dcc.RadioItems(
             id="fifty",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "optimizing"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 51: I prefer..."),
         dcc.RadioItems(
             id="fifty-one",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "optimzing"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 52: I prefer..."),
         dcc.RadioItems(
             id="fifty-two",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "problem solving"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="problem solving"
         ),
         dcc.Markdown("#### Question 53: I prefer..."),
         dcc.RadioItems(
             id="fifty-three",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 54: I prefer..."),
         dcc.RadioItems(
             id="fifty-four",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="exploring"
         ),
         dcc.Markdown("#### Question 55: I prefer..."),
         dcc.RadioItems(
             id="fifty-five",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 56: I prefer..."),
         dcc.RadioItems(
             id="fifty-six",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 57: I prefer..."),
         dcc.RadioItems(
             id="fifty-seven",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "acting"},
+                {"label": "Montréal", "value": "exploring"},
             ],
-            value="MTL"
+            value="acting"
         ),
         dcc.Markdown("#### Question 58: I prefer..."),
         dcc.RadioItems(
             id="fifty-eight",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "optimizing"},
+                {"label": "Montréal", "value": "storytelling"},
             ],
-            value="MTL"
+            value="optimizing"
         ),
         dcc.Markdown("#### Question 59: I prefer..."),
         dcc.RadioItems(
             id="fifty-nine",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "optimizing"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="optimizing"
         ),
         dcc.Markdown("#### Question 60: I prefer..."),
         dcc.RadioItems(
             id="sixty",
             options=[
-                {"label": "New York City", "value": "NYC"},
-                {"label": "Montréal", "value": "MTL"},
+                {"label": "New York City", "value": "exploring"},
+                {"label": "Montréal", "value": "problem solving"},
             ],
-            value="MTL"
+            value="exploring"
         ),
     ],
 )
