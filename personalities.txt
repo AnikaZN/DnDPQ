@@ -6,7 +6,7 @@ characters' voices. Roleplayers at heart, they enjoy social interactions with
 NPCs, monsters, and their fellow party members.
 - Encounters that push or challenge my character's morals and ethics.
 - Fostering relationships with other characters.
--
+- When my roleplaying has an impact on the world.
 - Opportunities to develop my character's personality and background.
 - Interacting regularly with NPCs.
 - Combat encounters that include roleplay elements.
@@ -19,7 +19,7 @@ world has to offer. They want to know what's around the next corner or hill.
 They also like to find hidden clues and treasure.
 - Revisiting familiar places and familiar NPCs.
 - Small-scale adventures that help me learn more about the minutiae of the world.
--
+- Getting information like flyers and pamphlets in real life as I explore the in-game world.
 - Hints and clues about things yet to come.
 - Exploring an area and finding things.
 - Rich descriptions of exciting environments with interesting maps and props.
@@ -30,11 +30,11 @@ Instigating
 Players who like to instigate action are eager to make things happen, even if
 that means taking perilous risks. They would rather rush headlong into danger
 and face the consequences than face boredom.
--
--
+- A world that rewards my character's adventurousness rather than punishing them.
+- Fair consequences for my actions.
 - When my actions affect my surroundings.
-- When here are lots of opportunities to pick fights with NPCs.
-- When my actions gets me into a sticky situation.
+- When there are lots of opportunities to pick fights with NPCs.
+- When my actions get me into a sticky situation.
 - Encounters with NPCs who are as feisty and unpredictable as my character is.
 - Causing trouble everywhere I go.
 - Making my mark in the world - good or bad.
@@ -43,7 +43,7 @@ Fighting
 Players who enjoy fantasy combat like kicking the tar out of villains and
 monsters. They look for any excuse to start a fight, favoring bold action over
 careful deliberation.
--
+- Combat that suits my playstyle.
 - Vivid descriptions of the havoc my character is wreaking in combat.
 - Combat encounters with large numbers of weak monsters.
 - When social interaction and exploration is interrupted with combat.
@@ -57,7 +57,7 @@ Players who enjoy optimizing their characters' capabilities like to fine-tune
 their characters for peak combat performance by gaining levels, new features,
 and magic items. They welcome any opportunity to demonstrate their character's
 superiority.
--
+- A steady flow of new and fresh challenges.
 - Having steady access to new abilities and spells.
 - When magic items I want are rewards for adventuring.
 - Encounters that let my character shine.
@@ -72,7 +72,7 @@ a villain's machinations, solve puzzles, and come up with plans.
 - In-game puzzles that test my real-life skills.
 - Pulling off a sneaky maneuver that gets me out of combat.
 - Navigating tricky social situations successfully.
--
+- Obstacles that have multiple possible solutions.
 - When I get in-game benefits for planning and strategy.
 - When a smart plan sometimes gets me an easy win.
 - Interacting with NPCs with complex motives.
@@ -82,8 +82,8 @@ Storytelling
 Players who love storytelling want to contribute to a narrative. They like it
 when their characters are heavily invested in an unfolding story, and they
 enjoy encounters that are tied to and expand an overarching plot.
--
--
+- When adventures always connect to a core plot.
+- When I'm rewarded for progressing or completing a story arc.
 - When my character's background helps shape the story of the campaign.
 - Encounters that advance the story in some way.
 - When my character's actions help steer future events.
