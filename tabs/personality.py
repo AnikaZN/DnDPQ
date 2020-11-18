@@ -97,8 +97,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="seven",
             options=[
-                {"label": "New York City", "value": "instigating"},
-                {"label": "Montréal", "value": "fighting"},
+                {"label": "Encounters with NPCs who are as feisty and unpredictable as my character is.", "value": "instigating"},
+                {"label": "Skipping the talking and diving straight into combat.", "value": "fighting"},
             ],
             value="instigating"
         ),
@@ -169,8 +169,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fifteen",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "fighting"},
+                {"label": "Rich descriptions of exciting environments with interesting maps and props.", "value": "exploring"},
+                {"label": "Exercising my power every opportunity I have - it's not often you get to use a sword or magic!", "value": "fighting"},
             ],
             value="exploring"
         ),
@@ -178,8 +178,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="sixteen",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "exploring"},
+                {"label": "When elements from my character's background make an appearance in the campaign.", "value": "acting"},
+                {"label": "Monsters that have secrets to uncover or cultural details to learn.", "value": "exploring"},
             ],
             value="acting"
         ),
@@ -187,8 +187,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="seventeen",
             options=[
-                {"label": "New York City", "value": "fighting"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Big, intense, combat-focused sessions against a final boss.", "value": "fighting"},
+                {"label": "When NPCs have ideals, bonds, and flaws that I can exploit.", "value": "storytelling"},
             ],
             value="fighting"
         ),
@@ -196,8 +196,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="eighteen",
             options=[
-                {"label": "New York City", "value": "problem solving"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Encounters that emphasize problem-solving.", "value": "problem solving"},
+                {"label": "When my character has clearly had an impact on the world.", "value": "storytelling"},
             ],
             value="problem solving"
         ),
@@ -205,8 +205,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="nineteen",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "instigating"},
+                {"label": "When I can get really deeply into character.", "value": "acting"},
+                {"label": "Causing trouble everywhere I go.", "value": "instigating"},
             ],
             value="acting"
         ),
@@ -214,8 +214,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="twenty",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Spending lots of time learning about the areas I visit.", "value": "exploring"},
+                {"label": "Narrative moments in combat where die rolls don't really matter.", "value": "storytelling"},
             ],
             value="exploring"
         ),
@@ -223,8 +223,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="twenty-one",
             options=[
-                {"label": "New York City", "value": "instigating"},
-                {"label": "Montréal", "value": "optimizing"},
+                {"label": "Making my mark in the world - good or bad.", "value": "instigating"},
+                {"label": "When items seem to be made for my character, not just random.", "value": "optimizing"},
             ],
             value="instigating"
         ),
