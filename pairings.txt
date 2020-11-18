@@ -1,8 +1,3 @@
-Acting : Optimizing
-Fighting : Storytelling
-Fighting : Optimizing
-Optimizing : Storytelling
-Fighting : Problem Solving
 Optimizing : Problem Solving
 Instigating : Fighting
 Acting : Exploring

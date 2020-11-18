@@ -4,11 +4,10 @@ Acting
 Players who enjoy acting like getting into character and speaking in their
 characters' voices. Roleplayers at heart, they enjoy social interactions with
 NPCs, monsters, and their fellow party members.
-- Give them opportunities to develop their characters' personalities and
-backgrounds
 - Allow them to interact regularly with NPCs
 - Add roleplay elements to combat encounters
 - Incorporate elements from their characters' backgrounds into adventures
+- Opportunities to develop my character's personality and background.
 
 Exploring
 Players who desire exploration want to experience the wonders that a fantasy
@@ -33,35 +32,34 @@ Fighting
 Players who enjoy fantasy combat like kicking the tar out of villains and
 monsters. They look for any excuse to start a fight, favoring bold action over
 careful deliberation.
-- Spring unexpected combat encounters on them
-- Vividly describe the havoc their character wreaks with their attacks and
-spells
-- Include combat encounters with large numbers of weak monsters
 - Interrupt social interaction and exploration with combat
+- Unexpected combat encounters.
+- Vivid descriptions of the havoc my character is wreaking in combat.
+- Combat encounters with large numbers of weak monsters.
 
 Optimizing
 Players who enjoy optimizing their characters' capabilities like to fine-tune
 their characters for peak combat performance by gaining levels, new features,
 and magic items. They welcome any opportunity to demonstrate their character's
 superiority.
-- Ensure steady access to new abilities and spells
-- Use desired magic items as adventure hooks
-- Include encounters that let their characters shine
 - Provide quantifiable rewards, like experience points, for noncombat encounters
+- Having steady access to new abilities and spells.
+- When magic items I want are rewards for adventuring.
+- Encounters that let my character shine.
 
 Problem Solving
 Players who want to solve problems like to scrutinize NPC motivations, untangle
 a villain's machinations, solve puzzles, and come up with plans.
-- Include encounters that emphasize problem-solving
 - Reward planning and tactics with in-game benefits
 - Occasionally allow a smart plan to grant an easy win for the players
 - Create NPCs with complex motives
+- Encounters that emphasize problem-solving.
 
 Storytelling
 Players who love storytelling want to contribute to a narrative. They like it
 when their characters are heavily invested in an unfolding story, and they
 enjoy encounters that are tied to and expand an overarching plot.
-- Use their character's backgrounds to help shape the stories of the campaign
-- Make sure an encounter advances the story in some way
 - Make sure their characters' actions help steer future events
 - Give NPCs ideals, bonds, and flaws that the adventurers can exploit
+- When my character's background helps shape the story of the campaign.
+- Encounters that advance the story in some way.
