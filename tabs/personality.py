@@ -32,8 +32,6 @@ column1 = dbc.Col(
 
             """
         ),
-        html.H2("D&D Player Personality", className="mb-5"),
-        # html.Div(id="prediction-content", className="lead")
     ],
     md=4,
 )
@@ -90,8 +88,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="six",
             options=[
-                {"label": "New York City", "value": "optimizing"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "When I receive quantifiable rewards, like experience points, for noncombat encounters.", "value": "optimizing"},
+                {"label": "When I get in-game benefits for planning and strategy.", "value": "problem solving"},
             ],
             value="optimizing"
         ),
@@ -108,8 +106,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="eight",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "exploring"},
+                {"label": "Interacting regularly with NPCs.", "value": "acting"},
+                {"label": "Hints and clues about things yet to come.", "value": "exploring"},
             ],
             value="acting"
         ),
@@ -117,8 +115,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="nine",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "optimizing"},
+                {"label": "Combat encounters that include roleplay elements.", "value": "acting"},
+                {"label": "Creating characters who are the best at what they do.", "value": "optimizing"},
             ],
             value="acting"
         ),
@@ -126,8 +124,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="ten",
             options=[
-                {"label": "New York City", "value": "instigating"},
-                {"label": "Montréal", "value": "fighting"},
+                {"label": "When here are lots of opportunities to pick fights with NPCs.", "value": "instigating"},
+                {"label": "When social interaction and exploration is interrupted with combat.", "value": "fighting"},
             ],
             value="instigating"
         ),
@@ -135,8 +133,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="eleven",
             options=[
-                {"label": "New York City", "value": "instigating"},
-                {"label": "Montréal", "value": "optimizing"},
+                {"label": "When my actions affect my surroundings.", "value": "instigating"},
+                {"label": "Lots of opportunities to put my broad range of abilities to use.", "value": "optimizing"},
             ],
             value="instigating"
         ),
@@ -144,8 +142,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="twelve",
             options=[
-                {"label": "New York City", "value": "instigating"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "When my actions gets me into a sticky situation.", "value": "instigating"},
+                {"label": "When a smart plan sometimes gets me an easy win.", "value": "problem solving"},
             ],
             value="instigating"
         ),
@@ -153,8 +151,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="thirteen",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Exploring an area and finding things.", "value": "exploring"},
+                {"label": "When my character's actions help steer future events.", "value": "storytelling"},
             ],
             value="exploring"
         ),
@@ -162,8 +160,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fourteen",
             options=[
-                {"label": "New York City", "value": "fighting"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "Unexpected combat encounters.", "value": "fighting"},
+                {"label": "Interacting with NPCs with complex motives.", "value": "problem solving"},
             ],
             value="fighting"
         ),
@@ -581,6 +579,8 @@ column2 = dbc.Col(
             ],
             value="exploring"
         ),
+        html.H2("D&D Player Personality", className="mb-5"),
+        # html.Div(id="prediction-content", className="lead")
     ],
 )
 
