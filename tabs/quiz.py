@@ -206,7 +206,7 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="ten",
             options=[
-                {"label": "When here are lots of opportunities to pick fights with NPCs.", "value": "instigating"},
+                {"label": "When there are lots of opportunities to pick fights with NPCs.", "value": "instigating"},
                 {"label": "When social interaction and exploration is interrupted with combat.", "value": "fighting"},
             ],
             value="instigating"
