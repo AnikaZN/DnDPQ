@@ -99,7 +99,7 @@ def predict(one, two, three, four, five, six, seven, eight, nine, ten, eleven,
              'Fighter': fighter, 'Optimizer': optimizer, 'Problem-Solver': solver,
              'Storyteller': storyteller}
     result = max(ranks, key=ranks.get)
-    return f"Your type is: {result}!"
+    return f"Your type is: {result}! Here is the breakdown of all the possible types: {ranks}"
 
 # 2 column layout. 1st column width = 4/12
 # https://dash-bootstrap-components.opensource.faculty.ai/l/components/layout
@@ -503,8 +503,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortythree",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Combat encounters that include roleplay elements.", "value": "acting"},
+                {"label": "When my character has clearly had an impact on the world.", "value": "storytelling"},
             ],
             value="acting"
         ),
@@ -512,8 +512,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortyfour",
             options=[
-                {"label": "New York City", "value": "optimizing"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "Creating characters who are the best at what they do.", "value": "optimizing"},
+                {"label": "Obstacles that have multiple possible solutions.", "value": "problem solving"},
             ],
             value="optimizing"
         ),
@@ -521,8 +521,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortyfive",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "instigating"},
+                {"label": "Monsters that have secrets to uncover or cultural details to learn.", "value": "exploring"},
+                {"label": "Fair consequences for my actions.", "value": "instigating"},
             ],
             value="exploring"
         ),
@@ -530,8 +530,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortysix",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "instigating"},
+                {"label": "When elements from my character's background make an appearance in the campaign.", "value": "acting"},
+                {"label": "When my actions affect my surroundings.", "value": "instigating"},
             ],
             value="acting"
         ),
@@ -539,8 +539,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortyseven",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "optimizing"},
+                {"label": "Spending lots of time learning about the areas I visit.", "value": "exploring"},
+                {"label": "Lots of opportunities to put my broad range of abilities to use.", "value": "optimizing"},
             ],
             value="exploring"
         ),
@@ -548,8 +548,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortyeight",
             options=[
-                {"label": "New York City", "value": "problem solving"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "When I get in-game benefits for planning and strategy.", "value": "problem solving"},
+                {"label": "Narrative moments in combat where die rolls don't really matter.", "value": "storytelling"},
             ],
             value="problem solving"
         ),
@@ -557,8 +557,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fortynine",
             options=[
-                {"label": "New York City", "value": "instigating"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "When there are lots of opportunities to pick fights with NPCs.", "value": "instigating"},
+                {"label": "When a smart plan sometimes gets me an easy win.", "value": "problem solving"},
             ],
             value="instigating"
         ),
@@ -566,8 +566,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fifty",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "optimizing"},
+                {"label": "Revisiting familiar places and familiar NPCs.", "value": "exploring"},
+                {"label": "When items seem to be made for my character, not just random.", "value": "optimizing"},
             ],
             value="exploring"
         ),
@@ -575,8 +575,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftyone",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "optimzing"},
+                {"label": "When I can get really deeply into character.", "value": "acting"},
+                {"label": "A steady flow of new and fresh challenges.", "value": "optimizing"},
             ],
             value="acting"
         ),
@@ -584,8 +584,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftytwo",
             options=[
-                {"label": "New York City", "value": "problem solving"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Interacting with NPCs with complex motives.", "value": "problem solving"},
+                {"label": "When I'm rewarded for progressing or completing a story arc.", "value": "storytelling"},
             ],
             value="problem solving"
         ),
@@ -593,8 +593,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftythree",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "Encounters that push or challenge my character's morals and ethics.", "value": "acting"},
+                {"label": "Encounters that emphasize problem-solving.", "value": "problem solving"},
             ],
             value="acting"
         ),
@@ -602,8 +602,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftyfour",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "Small-scale adventures that help me learn more about the minutiae of the world.", "value": "exploring"},
+                {"label": "In-game puzzles that test my real-life skills.", "value": "problem solving"},
             ],
             value="exploring"
         ),
@@ -611,8 +611,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftyfive",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Fostering relationships with other characters.", "value": "acting"},
+                {"label": "When adventures always connect to a core plot.", "value": "storytelling"},
             ],
             value="acting"
         ),
@@ -620,8 +620,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftysix",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "When my roleplaying has an impact on the world.", "value": "acting"},
+                {"label": "Pulling off a sneaky maneuver that gets me out of combat.", "value": "problem solving"},
             ],
             value="acting"
         ),
@@ -629,8 +629,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftyseven",
             options=[
-                {"label": "New York City", "value": "acting"},
-                {"label": "Montréal", "value": "exploring"},
+                {"label": "Opportunities to develop my character's personality and background.", "value": "acting"},
+                {"label": "Getting information like flyers and pamphlets in real life as I explore the in-game world.", "value": "exploring"},
             ],
             value="acting"
         ),
@@ -638,8 +638,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftyeight",
             options=[
-                {"label": "New York City", "value": "optimizing"},
-                {"label": "Montréal", "value": "storytelling"},
+                {"label": "Having steady access to new abilities and spells.", "value": "optimizing"},
+                {"label": "When my character's background helps shape the story of the campaign.", "value": "storytelling"},
             ],
             value="optimizing"
         ),
@@ -647,8 +647,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="fiftynine",
             options=[
-                {"label": "New York City", "value": "optimizing"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "When magic items I want are rewards for adventuring.", "value": "optimizing"},
+                {"label": "Navigating tricky social situations successfully.", "value": "problem solving"},
             ],
             value="optimizing"
         ),
@@ -656,8 +656,8 @@ column2 = dbc.Col(
         dcc.RadioItems(
             id="sixty",
             options=[
-                {"label": "New York City", "value": "exploring"},
-                {"label": "Montréal", "value": "problem solving"},
+                {"label": "Hints and clues about things yet to come.", "value": "exploring"},
+                {"label": "Obstacles that have multiple possible solutions.", "value": "problem solving"},
             ],
             value="exploring"
         ),

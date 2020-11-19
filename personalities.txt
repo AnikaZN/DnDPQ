@@ -4,6 +4,7 @@ Acting
 Players who enjoy acting like getting into character and speaking in their
 characters' voices. Roleplayers at heart, they enjoy social interactions with
 NPCs, monsters, and their fellow party members.
+- Interacting regularly with NPCs.
 - Combat encounters that include roleplay elements.
 - When elements from my character's background make an appearance in the campaign.
 - When I can get really deeply into character.
@@ -11,33 +12,32 @@ NPCs, monsters, and their fellow party members.
 - Fostering relationships with other characters.
 - When my roleplaying has an impact on the world.
 - Opportunities to develop my character's personality and background.
-- Interacting regularly with NPCs.
 
 Exploring
 Players who desire exploration want to experience the wonders that a fantasy
 world has to offer. They want to know what's around the next corner or hill.
 They also like to find hidden clues and treasure.
+- Hints and clues about things yet to come.
+- Exploring an area and finding things.
+- Rich descriptions of exciting environments with interesting maps and props.
 - Monsters that have secrets to uncover or cultural details to learn.
 - Spending lots of time learning about the areas I visit.
 - Revisiting familiar places and familiar NPCs.
 - Small-scale adventures that help me learn more about the minutiae of the world.
 - Getting information like flyers and pamphlets in real life as I explore the in-game world.
-- Hints and clues about things yet to come.
-- Exploring an area and finding things.
-- Rich descriptions of exciting environments with interesting maps and props.
 
 Instigating
 Players who like to instigate action are eager to make things happen, even if
 that means taking perilous risks. They would rather rush headlong into danger
 and face the consequences than face boredom.
-- Fair consequences for my actions.
-- When my actions affect my surroundings.
-- When there are lots of opportunities to pick fights with NPCs.
 - When my actions get me into a sticky situation.
 - Encounters with NPCs who are as feisty and unpredictable as my character is.
 - Causing trouble everywhere I go.
 - Making my mark in the world - good or bad.
 - A world that rewards my character's adventurousness rather than punishing it.
+- Fair consequences for my actions.
+- When my actions affect my surroundings.
+- When there are lots of opportunities to pick fights with NPCs.
 
 Fighting
 Players who enjoy fantasy combat like kicking the tar out of villains and
@@ -57,14 +57,14 @@ Players who enjoy optimizing their characters' capabilities like to fine-tune
 their characters for peak combat performance by gaining levels, new features,
 and magic items. They welcome any opportunity to demonstrate their character's
 superiority.
+- Encounters that let my character shine.
+- When I receive quantifiable rewards, like experience points, for noncombat encounters.
 - Creating characters who are the best at what they do.
 - Lots of opportunities to put my broad range of abilities to use.
 - When items seem to be made for my character, not just random.
 - A steady flow of new and fresh challenges.
 - Having steady access to new abilities and spells.
 - When magic items I want are rewards for adventuring.
-- Encounters that let my character shine.
-- When I receive quantifiable rewards, like experience points, for noncombat encounters.
 
 Problem Solving
 Players who want to solve problems like to scrutinize NPC motivations, untangle
@@ -82,11 +82,11 @@ Storytelling
 Players who love storytelling want to contribute to a narrative. They like it
 when their characters are heavily invested in an unfolding story, and they
 enjoy encounters that are tied to and expand an overarching plot.
+- Encounters that advance the story in some way.
+- When my character's actions help steer future events.
+- When NPCs have ideals, bonds, and flaws that I can exploit.
 - When my character has clearly had an impact on the world.
 - Narrative moments in combat where die rolls don't really matter.
 - When I'm rewarded for progressing or completing a story arc.
 - When adventures always connect to a core plot.
 - When my character's background helps shape the story of the campaign.
-- Encounters that advance the story in some way.
-- When my character's actions help steer future events.
-- When NPCs have ideals, bonds, and flaws that I can exploit.
