@@ -110,7 +110,7 @@ column1 = dbc.Col(
 
             ## Personality Test
 
-            Answer the questions below to find out your D&D Player Personality! (Won't be accurate unless all questions are answered according to your preference.)
+            Answer the questions below to find out your RPG Player Personality! (Won't be accurate unless all questions are answered according to your preference.)
 
             """
         ),
@@ -661,7 +661,7 @@ column2 = dbc.Col(
             ],
             value="exploring"
         ),
-        html.H2("D&D Player Personality", className="mb-5"),
+        html.H2("RPG Player Personality", className="mb-5"),
         html.Div(id="prediction-content", className="lead")
     ],
 )
