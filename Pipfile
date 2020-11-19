@@ -10,6 +10,7 @@ dash = "*"
 dash-bootstrap-components = "*"
 dash-core-components = "*"
 dash-html-components = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
